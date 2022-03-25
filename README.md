@@ -1,2 +1,2 @@
-# kodluyoruz-frontend-css-dev1
+# kodluyoruz-frontend-css-odev1
 Kodluyoruz CSS 1. Ödev
